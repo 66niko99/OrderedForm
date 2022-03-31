@@ -1,4 +1,4 @@
-# OrderedForm
+# OrderedValues
 Go package to create orderd query strings
 
 Usage 
